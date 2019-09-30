@@ -1,0 +1,47 @@
+#app {
+  margin: 0; 
+}
+.header { 
+  background-color: rgb(57, 57, 189);
+  color: #ffffff;
+  padding: 20px 30px; 
+
+}
+body {
+  margin: 0; 
+  background-color: whitesmoke; 
+
+}
+.corpo{
+  width: 55%;
+  height: 70%; 
+  padding: 10px; 
+  margin: 0 20%;   
+}
+.post {
+  margin-top: 20px;
+  border-radius: 8px;
+  background: white;
+  padding: 20px;
+  color: #3e3e3e;
+  line-height: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.linha {
+  width: 100%;
+  height: 1px;
+  background: rgb(207, 207, 207);
+   
+}
+.comment { 
+  position: relative;
+
+}
+
+.comment p {
+  border-radius: 20px;
+  background: rgb(228, 228, 228);
+  margin-left: 10px;
+  padding: 15px;
+  
+}
