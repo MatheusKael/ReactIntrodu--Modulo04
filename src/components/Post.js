@@ -5,7 +5,7 @@ import React, { Component } from "react";
 function PostHeader({ author, date }) {
   return (
     <div className="postHeader">
-
+      <img src={author.avatar} className="avatar"/>
       <div className="details">
         <span> {author.name}</span>
         <span>{date}</span>
@@ -22,6 +22,7 @@ function PostComment({ comments }) {
       <div className="linha"></div>
       {comments.map(comment => (
         <div key={comment.key} className="comment">
+          <img  src={comment.author.avatar} className="avatar"  />
 
           <p>
             <span>{comment.author.name}</span>

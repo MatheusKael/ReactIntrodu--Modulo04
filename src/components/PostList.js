@@ -7,7 +7,7 @@ class PostList extends Component {
         id: 1,
         author: {
           name: 'Matheus Kael',
-          avatar: 'https://i.pravatar.cc/150?img=1'
+          avatar: 'https://avatars3.githubusercontent.com/u/43392922?s=460&v=4'
         },
         date: '04 Jun 2019',
         content: 'Pessoal, alguém sabe se a Rocketseat está contratando?',
@@ -16,14 +16,38 @@ class PostList extends Component {
             id: 2,
             author: {
               name: 'Diego Fernandes',
-              avatar: 'https://avatars2.githubusercontent.com/u/2254731?v=4'
+              avatar: 'https://avatars0.githubusercontent.com/u/2254731?s=460&v=4'
             },
             date: '04 Jun 2019',
             content:
-              'A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)'
-          }
+              'oi, sumido, quer trabalhar pra mim?'
+          },
+          
         ]
       },
+      {
+        id: 1,
+        author: {
+          name: 'Jaum Coutao',
+          avatar: 'https://avatars3.githubusercontent.com/u/31421876?s=460&v=4'
+        },
+        date: '04 Jun 2019',
+        content: 'E ae, gente, sabiam que eu sou viadao?',
+        comments: [
+          {
+            id: 2,
+            author: {
+              name: 'Matheus kael',
+              avatar: 'https://avatars3.githubusercontent.com/u/43392922?s=460&v=4'
+            },
+            date: '04 Jun 2019',
+            content:
+              'Faaz hooooras'
+          },
+          
+        ]
+      },
+      
      
       
         
