@@ -32,7 +32,7 @@ class PostList extends Component {
           avatar: 'https://avatars3.githubusercontent.com/u/31421876?s=460&v=4'
         },
         date: '04 Jun 2019',
-        content: 'E ae, gente, sabiam que eu sou viadao?',
+        content: 'E ae, gente, sabiam que eu não sou faixa preta?',
         comments: [
           {
             id: 2,
@@ -42,7 +42,7 @@ class PostList extends Component {
             },
             date: '04 Jun 2019',
             content:
-              'Faaz hooooras'
+              'Sim'
           },
           
         ]

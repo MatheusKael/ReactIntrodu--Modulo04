@@ -11,15 +11,15 @@
 }
 
 .header { 
-  background-color: #1B98E0;
+  background-color: #4267b2;
   color: #ffffff;
   padding: 40px 50px; 
-  font-family: 'Righteous', cursive;
+  font-family: 'Segoe UI', cursive;
 }
 body {
   margin: 0; 
   background-color: whitesmoke; 
-  font-family: 'Lalezar', cursive;
+  font-family: 'Roboto', cursive;
 }
 .corpo{
   width: 55%;
